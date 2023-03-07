@@ -11,6 +11,7 @@
 		F7E973B229B743BC0034A5A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7E973B129B743BC0034A5A4 /* ContentView.swift */; };
 		F7E973B429B743BD0034A5A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7E973B329B743BD0034A5A4 /* Assets.xcassets */; };
 		F7E973B829B743BD0034A5A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7E973B729B743BD0034A5A4 /* Preview Assets.xcassets */; };
+		F7E973BF29B743C30034A5A4 /* data100.block in Resources */ = {isa = PBXBuildFile; fileRef = F7E973BE29B743C20034A5A4 /* data100.block */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F7E973B329B743BD0034A5A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7E973B529B743BD0034A5A4 /* IsoLines.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = IsoLines.entitlements; sourceTree = "<group>"; };
 		F7E973B729B743BD0034A5A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F7E973BE29B743C20034A5A4 /* data100.block */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data100.block; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		F7E973AE29B743BC0034A5A4 /* IsoLines */ = {
 			isa = PBXGroup;
 			children = (
+				F7E973BE29B743C20034A5A4 /* data100.block */,
 				F7E973AF29B743BC0034A5A4 /* IsoLinesApp.swift */,
 				F7E973B129B743BC0034A5A4 /* ContentView.swift */,
 				F7E973B329B743BD0034A5A4 /* Assets.xcassets */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7E973BF29B743C30034A5A4 /* data100.block in Resources */,
 				F7E973B829B743BD0034A5A4 /* Preview Assets.xcassets in Resources */,
 				F7E973B429B743BD0034A5A4 /* Assets.xcassets in Resources */,
 			);
